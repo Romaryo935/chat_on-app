@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160982682453",
+    "project_id": "chatko-6d654",
+    "storage_bucket": "chatko-6d654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160982682453:android:f06060742a0f6a6b593ddc",
+        "android_client_info": {
+          "package_name": "com.example.chat_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160982682453-ulpeo4n150gqpphl305p9cs3otjckhb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1tQUkX0f_NOOfnEB66w-dMeGIDWRsks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160982682453-ulpeo4n150gqpphl305p9cs3otjckhb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
